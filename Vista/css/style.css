@@ -1,0 +1,14 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+.fondo{
+    padding: 200px;
+    background-color: blanchedalmond;
+}
+
+#presentacion{
+    padding-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
